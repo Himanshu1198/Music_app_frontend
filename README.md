@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Made with Acertinity UI : https://ui.aceternity.com/
+# Home
+![image](https://github.com/user-attachments/assets/50da02f6-8d91-447c-88a9-b574d6b40838)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/5b0113e8-6b1a-48d6-a6c1-e87f3559a38d)
 
-First, run the development server:
+![image](https://github.com/user-attachments/assets/429393e9-ca5d-41e1-8036-c557bbc9d09f)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/user-attachments/assets/76556465-5b3e-4ad9-b500-037c82c05d9f)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/user-attachments/assets/f8451ebb-1991-4331-a785-b642ac4914d2)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://github.com/user-attachments/assets/3f95b5a2-8ed1-4e0a-838a-baae2423ebb9)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://github.com/user-attachments/assets/14c56de7-273b-49ad-acb7-14bbb0134edb)
 
-## Learn More
+# Courses
+![image](https://github.com/user-attachments/assets/d197763c-4fc7-424b-9ce8-f023c4bab5ed)
 
-To learn more about Next.js, take a look at the following resources:
+# Contact Us
+![image](https://github.com/user-attachments/assets/07061a64-834e-4d8d-9a88-ce30399da0ea)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
